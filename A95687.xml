@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>That the right both of chusing sheriffs, and of admitting them to, or precluding them from, the relieving themselves by fine, is solely inthe [sic] Common-Hall briefly opened and defended.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95687</idno>
+            <idno type="STC">Wing T840A</idno>
+            <idno type="STC">ESTC R42914</idno>
+            <idno type="EEBO-CITATION">38875936</idno>
+            <idno type="OCLC">ocm 38875936</idno>
+            <idno type="VID">152442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2297:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>That the right both of chusing sheriffs, and of admitting them to, or precluding them from, the relieving themselves by fine, is solely inthe [sic] Common-Hall briefly opened and defended.</title>
+                  <author>Bethel, Slingsby, 1617-1697.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Note in ms. on recto: By Slingsby Bethel Esq.</note>
+                  <note>Imperfect: torn and worn, with slight loss of text.</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bethel, Slingsby, 1617-1697.</term>
+               <term>City of London (England). --  Court of Common Council.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152442:1" rendition="simple:additions"/>
+            <pb facs="tcp:152442:1" rendition="simple:additions"/>
+            <head>
+               <hi>That the Right both of Chuſing Sheriffs, and of Admitting them to, or Precluding them from, the relieving themſelves by</hi> FINE, <hi>is ſolely in the</hi> Common-Hall, <hi>briefly Opened and Defended.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>IS as ſurpriſing, as 'tis unaccountable, that while we are vindicating our Laws, Rights, and Liberties from the inva<g ref="char:EOLhyphen"/>ſions made upon them by our late Kings, there ſhould be found ſo great an inclination in inferi<g ref="char:EOLhyphen"/>or Magiſtrates, Courts, and Officers, to maintain their own uſurpations over the Franchiſes and Privileges of their fellow Sub<g ref="char:EOLhyphen"/>jects and Citizens. Nor do's it only fill men peaceably diſpoſed with amazement, but it greatly alarms them to find, that thoſe who a few Months ago, would have been thankful to have ſtood indemnified from their illegal and ar<g ref="char:EOLhyphen"/>bitrary Actings, are become of late ſo embolden<g ref="char:EOLhyphen"/>ed, as to juſtify their former Lawleſs Courſes, by adhearing unto, and purſuing the ſame methods. But ſurely the Freemen and Citizens of <hi>London,</hi> muſt be degenerated into a ſtrange fondneſs of ſlavery, if when through the Grace and Genero<g ref="char:EOLhyphen"/>ſity of Their preſent Majeſties, they are not only redeemed from the Tyranny exerciſed over them and the Nation by Kings, but ſecure againſt it in future Reigns as well as their own; they ſhould ſacrifice their Rights to the Court of Aldermen and the Common-Council, who, as they are in<g ref="char:EOLhyphen"/>debted for the ſtation they are in to the choice of the Free-men, ſo they are not only ſworn to pre<g ref="char:EOLhyphen"/>ſerve and defend the Liberties, Privileges, and Franchiſes granted to the City by ſo many Char<g ref="char:EOLhyphen"/>ters; but are accountable to the Community re<g ref="char:EOLhyphen"/>preſented in the Common-hall, in caſe through violating their Oaths they either invade or be<g ref="char:EOLhyphen"/>tray them. And as the behaviour, at this jun<g ref="char:EOLhyphen"/>cture, of ſome Men, ſhews how little they are influenced by the example of His Majeſty, both in making the known Laws the alone Rule of his Government, and in expreſſing the utmoſt tem<g ref="char:EOLhyphen"/>perance of mind, condeſcention, patience and goodneſs, towards unthankful, murmuring, and undutiful, as well as towards grateful and loyal Subjects; ſo the preſent carriage of ſome of the Court of Aldermen, in the matter under debate between them and the Common-Hall, ſeems to be calculated in order to fruſtrate and defeat one of the great ends of His Majeſty's glorious un<g ref="char:EOLhyphen"/>dertaking in his coming into <hi>England,</hi> which was to vindicate, recover, and reſtore to Cities and Corporations, all the Privileges and Rights whereunto they had a legal claim by Laws, Pre<g ref="char:EOLhyphen"/>ſcriptions, Grants or Charters, and which had been either loſt and departed from by length and corruption of time, or wreſted from them by the fraud and violence of any Rank or Set of Men.</p>
+            <p>Whatſoever Right ſome of our late Mayors, Aldermen, and Common-Council men challeng'd in and over the Priviledges and Franchiſes of the City, as if the Charters containing the Cuſtoms, Liberties, Powers and Authorities, vouchſafed, and conveyed to the ſaid City, had been origi<g ref="char:EOLhyphen"/>nally made and granted ſolely to them; yet it is a matter too evident to be controlled, That they are not ſo much as named or mentioned in any of the ſaid Charters, every thing therein ſpecified and comprehended, being made over, granted, and confirmed to the Citizens and Commonalty of <hi>London:</hi> So that all the Intereſt they can with Juſtice or Reaſon pretend unto, by vertue of any Charter, in reference to the Rights and Franch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſes of the City, is meerly as they are Citizens, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in conjunction with the Commonalty. See <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Charters granted to the City of <hi>London</hi> by <hi>Hen.</hi> K. <hi>John. Hen.</hi> 3. <hi>Edw.</hi> 1. <hi>Edw.</hi> 2. <hi>Edw.</hi> 3. <hi>Ric.</hi> 2. &amp;c.</p>
+            <p>And as the Power of chuſing Sheriffs, is one of the principal Rights and Privileges conveyed and confirmed in the ſaid Charters; ſo both the Sheriffwick it ſelf, with all the Cuſtoms thereun<g ref="char:EOLhyphen"/>to belonging, and the Privilege and Authority, as well of making as amoving Sheriffs, is made over and granted to the Citizens and Commonalty of the ſaid City. This will fully appear to all ſuch as will allow themſelves to conſult the foremen<g ref="char:EOLhyphen"/>tioned Charters. Nor is is it conſiſtent either with the Honour or Peace of the City, That the Right of Electing Sheriffs ſhould be lodged in one Body of Men, and the Power of Approving and Diſallowing ſhould be veſted in another. Nei<g ref="char:EOLhyphen"/>ther is it agreeable with the meaſures either of Wiſdom or Juſtice, That any ſhould looſe' but they who have power to bind. Accordingly when Mr. <hi>John Richmond,</hi> who in 33 <hi>Hen.</hi> 8. had been choſen by the <hi>Common-Hall</hi> for one Sheriff, refuſed to ſerve upon a certain pretence men<g ref="char:EOLhyphen"/>tioned in the Records of the City, <hi>Lib. Q. fol.</hi> 35. <hi>a.</hi> The <hi>Commons</hi> in the <hi>Common-Hall</hi> Aſſembled took cognizance of it, and judging the Excuſe and Plea upon which he grounded his refuſal, to be inſufficient, they committed him to Priſon for diſ<g ref="char:EOLhyphen"/>obedience and obſtinacy: And then he ſubmitted to a Fine, and the Common-Hall met again the 12th of <hi>Auguſt,</hi> to conſent to his diſcharge.</p>
+            <p>But whereas the Court of Aldermen inſiſt up<g ref="char:EOLhyphen"/>on, and allege the Authority of an Act of Com<g ref="char:EOLhyphen"/>mon-Council, made <hi>An.</hi> 7. <hi>Car.</hi> 1. whereby they pretend to be authoriſed and empowered to ad<g ref="char:EOLhyphen"/>mit ſuch to <hi>Fine</hi> whom they ſhall think meet, without the concurrence of the Commons; and that notwithſtanding the Commons having both choſen ſuch Perſon or Perſons to the Office of Sheriff, and their continuing to adhere to the Election which they have made: we ſhall take liberty to unravel that Act, and ſhew, not only the illegality of it, but what fatal miſchiefs it is ſhapen and adapted to produce. Nor is it a deroga<g ref="char:EOLhyphen"/>tion from the Wiſdom of a Common-Council, when I ſay that One of the Acts of that Body may be illegal; ſeeing I am juſtified in the uſe of the expreſſion by the Commons of <hi>England</hi> in Parliament aſſembled, <hi>An.</hi> 1628. who being ap<g ref="char:EOLhyphen"/>plied unto by way of Petition and Complaint by one <hi>Legatt,</hi> did judge and declare a certain Act of the Common-Council to be null in it ſelf, and that all the Proceedings upon it had been unjuſt and arbitrary.</p>
+            <p>Nor is it much for the Reputation of the Court
+<pb facs="tcp:152442:2"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldermen, that the Act which they ſeek to ju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fie themſelves by, is the ſame that Sir <hi>John More</hi> bore himſelf upon, when he overthrew all the Rights of the City relating to the Choice of Officers, and thereby laid us open to a Deluge of Miſery and Blood. But I ſee ſome Men do as little underſtand their Intereſt as their Duty; for by reviving the Authority of that Act of Com<g ref="char:EOLhyphen"/>mon Council, they prevent the forgiving as well as the forgetting their Crimes. There muſt be in the Court of Aldermen Gentlemen either <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f very weak Memories, ſo as to forget the Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lections made upon this Act in the Committee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Houſe of Commons but a few weeks ago; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> elſe they have neither that Reverence for the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thority, nor that Apprehenſion of the Juſtice <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that Part of the Legiſlative Body, as well as Grand Inqueſt of the Kingdom, which not only their Duty, but their Circumſtances ſhould oblige them unto.</p>
+            <p>To which I do farther add, That whatſoever the Power of a Common-Council is, yet it re<g ref="char:EOLhyphen"/>mains ſtill ſubordinate and ſubject unto, and may have its Acts both queſtioned and ſuperſe<g ref="char:EOLhyphen"/>ded by a Common-Hall: For the former being a Creature of the latter, and only inſtituted and erected by it, for the eaſe and conveniency of the Great Body of the Commonalty; it is not to be ſuppoſed but that the Free-men reſerved a Juriſ<g ref="char:EOLhyphen"/>diction unto themſelves in their General Meet<g ref="char:EOLhyphen"/>ings, both of controuling and annulling ſuch Acts as ſhould be found to the prejudice of the Corpo<g ref="char:EOLhyphen"/>ration and Society. Accordingly, we not only find the Commons of <hi>London,</hi> in the 20 <hi>Ed.</hi> 3. and the 43 <hi>Ed.</hi> 3. giving Riſe and Being unto a Common-Council, and both preſcribing the Ends for which it was Inſtituted and Ordained, and adjuſting the number of the Members th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t were to conſtitute it, together with the manner how they ſhould be choſen and elected: But we further find, That the ſaid Com<g ref="char:EOLhyphen"/>mons <note place="margin">☞</note> in Common-Hall aſſembled, <hi>An.</hi> 7. <hi>Ric.</hi> 2. do both redreſs thoſe Inconveniences that had crept into the Management of Common-Councils, and preſcribe ſuch new Regulations as might render their Debates calm and ſedate, and themſelves more uſeful in time to come.</p>
+            <p>But then, if we will obſerve, That the Act inſiſted upon by the Court of Aldermen for their admitting Perſons, after their being elected to Offices by the Commons, to diſcharge and free themſelves from the ſaid Offices by <hi>Fine,</hi> without the leave and conſent of the Commons, is inconſiſtent with the Charter, we may not only affirm it to be in it ſelf null, but that they who ſtrive to aſſert and uphold the Authority of it, are not ſo regardful of their Credit, as men of Wiſ<g ref="char:EOLhyphen"/>dom and Honeſty ought to be. All the Power and Au<g ref="char:EOLhyphen"/>thority that either the Court of Aldermen, or the Com<g ref="char:EOLhyphen"/>mon Council can pretend unto, is veſted in them for the preſervation of the Franchiſes granted to the Citizens, and not for the ſubverſion of them. To this they are ſworn upon their admiſſion into their reſpective Offices; and by every known and wilful invaſion upon the Privileges ſetled by the Charter on the Free-men, they are guilty of the violation of their Oaths, and become perjured. Nor is their paſſing and enacting of ſuch Laws as are inconſiſt<g ref="char:EOLhyphen"/>ent with the Charter, merely an invaſion upon the Rights of the Commonalty; but it is a Crime againſt the King, both in robbing his people of the Grace which the Crown hath vouchſafed unto them, and in annulling all the Sta<g ref="char:EOLhyphen"/>tute Laws by which the Charter is rati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied and confirmed. And therefore, as it hath been lately acknowledged by the Town-Clerk before the Committee of the Houſe of Commons, that this Act of Common Council is diſagree<g ref="char:EOLhyphen"/>able unto, and inconſiſtent with the Charter; ſo I do not know, but that they who have the boldneſs to ſupport and juſtifie it, are liable to be impeached of cancelling the Laws of the Kingdom, and of claiming a power unto themſelves, both of ſubverting his Majeſties Royal Au<g ref="char:EOLhyphen"/>thority and Prerogative, and of committing a breach up<g ref="char:EOLhyphen"/>on his Bounty, Favour, and Grace.</p>
+            <p>And as it is not to be thought that the preſent Lord Mayor, who beſides his approved Integrity in the moſt difficult times, is a perſon of that Wiſdom as not to act inconſiſtently with himſelf, will after he has ſo lately de<g ref="char:EOLhyphen"/>parted from one Branch of this Act of Common-Council as unjuſt, illegal, and oppreſſive, inſiſt upon any other Clauſe or part of it, as valid and binding; ſo 'tis to be hoped, that the very Court of Aldermen will as readily in favour of the Commonalty of <hi>London,</hi> abandon the unjuſt and arbitrary pretence and claim, which they fan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore<g ref="char:EOLhyphen"/>ſaid Act does empower them to challenge, about admit<g ref="char:EOLhyphen"/>ting perſons to Fine, whom the Common-Hall hath choſen for Sheriffs, without the concurrence and approbation of the Majority of the Electors, as they calmly deſerted and forſook their invaſion upon the Rights of the City, about the Lord Mayor's conſtituting a Sheriff by the Honourable Method of Drinking to One, and who by the late Act of Common-Council in the Mayoralty of Sir <hi>Will. Pritchard,</hi> was to be ſo held and eſteemed, if but Two Perſons of the whole Commonalty, ſhould hold up their hands in Confirmation of the Perſon deſigned and choſen by the Glaſs and Rummer.</p>
+            <p>Nor will it be unworthy of the conſideration of the Court of Aldermen, That the <hi>Act</hi> of <hi>Common-Council</hi> up<g ref="char:EOLhyphen"/>on which they inſiſt in juſtification of their preſent pro<g ref="char:EOLhyphen"/>cedure, hath been judged to be of no Force, Validity, or Obligation, by the higheſt Court of Judicatory of the Kingdom, namely by the Lords in Parliament aſſembled, 17 <hi>Car.</hi> 1. For the Commons having refuſed to confirm one for Sheriff, whom Sir <hi>Edward Wright,</hi> the then Lord Mayor, had by the Cup or Glaſs chalk'd out for that Of<g ref="char:EOLhyphen"/>fice, and a diſappointment being thereby occaſioned of the Election of Sheriffs on <hi>Midſummer</hi> day, the Caſe was thereupon brought judicially before that High and Ho<g ref="char:EOLhyphen"/>nourable Court, which after a full he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing of both Par<g ref="char:EOLhyphen"/>ties, ordered the Commonalty to proceed to the Nomina<g ref="char:EOLhyphen"/>tion and Election of both Sheriffs for the Year enſuing.</p>
+            <p>To which may be added, That the forementioned Act in the 7 <hi>Car.</hi> 1. and all other Acts of Common Council preceding the 15 <hi>Car.</hi> 2. that are either derogatory from, inconſiſtent with, or invaſions upon the Rights of the Charter, are all cancell'd, repealed, or made void by the <hi>Inſpeximus</hi> of the ſaid 15 <hi>Car.</hi> 2. For whereas that revives and confirms all the Original Grants made to the City, reinveſting the Freemen in all the Rights and Privileges conveyed to them in Former Charters, it neceſſarily fol<g ref="char:EOLhyphen"/>lows, That all ſuch <hi>By-Laws</hi> as detract from, diminiſh, or ſubvert their Franchiſes, are thereby ſupe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded, abrogated and annulled. And for any now to plead the validity of the often fore-mentioned Act of Common-Council, is not only to diſpute the Authority, and renounce the grace and benefit of the ſaid <hi>Inſpeximus,</hi> but to provoke the Com<g ref="char:EOLhyphen"/>monalty to ſeek redreſs in Parliament, againſt this unjuſt and abrogated Law.</p>
+            <p>Yea, ſhould this Act of the Common-Council be ac<g ref="char:EOLhyphen"/>knowledged of force and binding, and be made the Rule according to which the Court of Aldermen are to govern themſelves in reference to the choice of Sheriffs, they would not only be cloathed with a power of oppreſſing and harraſſing the Citizens by often and unneceſſary atten<g ref="char:EOLhyphen"/>dance in Common Halls, but they would ſo far de<g ref="char:EOLhyphen"/>prive the City of all Authority over its Memb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, That it would neither be in the power of the Commonal<g ref="char:EOLhyphen"/>ty, nor in the Court of Aldermen, to oblige any man to take upon him, and to hold the Office of Sheriff. For whereas by that <hi>Law,</hi> any man that will, may, notwith<g ref="char:EOLhyphen"/>ſtanding his being choſen by the majority of the Freemen for Sheriff, challenge a right of diſcharging himſelf from ſerving, upon the paying of a certain and ſpecified <hi>Fine;</hi> it plainly follows, that it muſt be from Choice, and not from Obligation, if any Perſon ſubmit to hold.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1689.</p>
+            <pb facs="tcp:152442:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
